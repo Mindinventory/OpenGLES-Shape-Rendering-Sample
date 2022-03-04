@@ -1,6 +1,6 @@
 # OpenGLES: A shape(square) rendering
 
-OpenGLES is an embedded version of the OpenGL cross-platform API which is used for the render 2D/3D texture. This sample code contains the implementation of shape rendering using OpenGLES.
+OpenGLES is an embedded version of the OpenGL cross-platform API which is used to render 2D/3D texture. This sample code contains the implementation of shape rendering using OpenGLES.
 
 ![image](/media/mobile.gif)
 
