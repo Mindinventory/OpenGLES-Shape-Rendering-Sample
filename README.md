@@ -8,7 +8,7 @@ OpenGLES is an embedded version of the OpenGL cross-platform API which is used t
 * The latest version of the Android Studio
 * A device with support of OpenGL ES 2.0 version or higher.
 
-For more details please refer to the Medium article
+For more details please refer to the [Medium article](https://medium.com/mindful-engineering/opengles-a-shape-square-rendering-ca2c5a92430)
 
 # LICENSE!
 
